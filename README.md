@@ -9,4 +9,4 @@
 
 ### Link do projeto
 
-![link](https://anapaulabenjamin.github.io/FantasticBeasts/)
+[Projeto](https://anapaulabenjamin.github.io/FantasticBeasts/)
