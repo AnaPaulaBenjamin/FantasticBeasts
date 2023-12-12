@@ -6,3 +6,7 @@
 
 * Esse projeto foi desenvolvido no curso de JavaScript completo da Origamid.
 * Projeto desenvolvido desde o HTML, CSS E JavaScript.
+
+### Link do projeto
+
+![link](https://anapaulabenjamin.github.io/FantasticBeasts/)
